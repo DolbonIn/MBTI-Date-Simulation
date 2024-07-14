@@ -1,1 +1,18 @@
 # MBTI-Date-Simulation
+
+## Start Langflow
+```
+python -m pip install langflow -U
+python -m langflow run
+```
+
+## Import Json
+
+Import [Question Generation Demo](https://github.com/DolbonIn/MBTI-Date-Simulation/blob/main/Question%20Generation%20Demo.json)
+
+## Run streamlit
+```
+pip install streamlit request
+streamlit run app.py
+```
+
