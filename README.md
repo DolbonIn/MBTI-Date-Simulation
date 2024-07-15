@@ -1,6 +1,9 @@
 # MBTI-Date-Simulation
 
 ## Start Langflow
+
+python >= 3.11
+
 ```
 python -m pip install langflow -U
 python -m langflow run
